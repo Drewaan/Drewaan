@@ -1,43 +1,24 @@
 # Hi there, I'm Andrés Amaya 👋
-**Aspiring Software Developer | Programming & Concurrency Enthusiast**
+## Software Developer
+### 📍 Technical Skills
+*Programming Languages*  
+🔹 C, C++, and scripting languages   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlorenzolana&layout=compact&theme=dark)  
+*Development Tools*  
+🔹 Makefile, CMake, GDB, LLDB  
+🔹 Embedded hardware programming and execution  
+🔹 Debugging, Git, GitLab, Virtual Machines  
+🔹 Testing: Integration, regression, and incremental testing  
 
-I am an active student at **42 Urduliz**, where I follow an engineering philosophy centered on efficiency, performance, and a deep understanding of how systems operate at both the hardware and operating system levels.
+*Methodologies*  
+🔹 MVP-based conceptualization      
+🔹 Continuous Integration (CI)  
+🔹 Sprint-oriented development (methodologies)
 
-My focus is on **self-directed learning (P2P)** and solving complex problems primarily through **C programming**, while continuously expanding my technical arsenal by learning new languages and technologies.
-
----
-
-## 🔧 Technical Arsenal
-
-### **Area**
-### **Technologies / Concepts**
-
-#### **Core Languages**
-- **C (Strong)**
-- Bash
-- JavaScript *(Actively Learning)*
-
-#### **Operating Systems**
-- Process Management (`fork`, `exec`)
-- IPC (Pipes, Mutexes)
-- Threads (`pthreads`)
-- File Descriptors
-
-#### **Algorithms**
-- Sorting Algorithms
-- Time Complexity
-- Advanced Data Structures
-
-#### **Tools**
-- Git, GitHub
-- Makefile
-- Debugging
-- MiniLibX (Graphics)
-
-#### **Methodology**
-- Agile Development
-- Problem-Solving
-
+*Communication Protocols*  
+🔹 IoT experience  
+🔹 Client-server communication  
+🔹 Physical programming and serial port communication  
 ---
 
 ## 🚀 Core Systems Portfolio (42)
@@ -61,16 +42,7 @@ A series of foundational projects demonstrating my ability to tackle increasing 
 🔗 *starwalker.solar*
 
 Project developed during a Hackathon focused on providing access and visualization of NASA’s public image and map database.
-
-**Features:**
-- Celestial body exploration with multiple satellite layers
-- Collaborative map platform
-- Integrated AI Assistant trained on NASA datasets
-
-**Technology Stack:**
-- **Frontend:** Astro, CSS, TypeScript
-- **Backend:** PostgreSQL, NASA TREK API
-- **AI Integration:** NASA-trained dataset for intelligent assistance
+Celestial body exploration with multiple satellite layers
 
 ---
 
