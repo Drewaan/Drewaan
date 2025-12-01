@@ -1,5 +1,5 @@
 # Hi there, I'm Andrés Amaya 👋
-**Aspiring Systems Developer | Programming & Concurrency Enthusiast**
+**Aspiring Software Developer | Programming & Concurrency Enthusiast**
 
 I am an active student at **42 Urduliz**, where I follow an engineering philosophy centered on efficiency, performance, and a deep understanding of how systems operate at both the hardware and operating system levels.
 
