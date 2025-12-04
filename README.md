@@ -3,6 +3,7 @@
 ### 📍 Technical Skills
 *Programming Languages*  
 🔹 C, C++, and scripting languages   
+
 *Development Tools*  
 🔹 Makefile, CMake, GDB, LLDB  
 🔹 Embedded hardware programming and execution  
@@ -14,10 +15,6 @@
 🔹 Continuous Integration (CI)  
 🔹 Sprint-oriented development (methodologies)
 
-*Communication Protocols*  
-🔹 IoT experience  
-🔹 Client-server communication  
-🔹 Physical programming and serial port communication  
 ---
 
 ## 🚀 Core Systems Portfolio (42)
