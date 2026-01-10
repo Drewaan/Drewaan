@@ -22,13 +22,16 @@ A series of foundational projects demonstrating my ability to tackle increasing 
 
 | Project | Technical Domain | Key Engineering Highlight |
 |--------|------------------|----------------------------|
-| **Philosophers** | Concurrency & Threads | Multi-threaded simulation solving the Dining Philosophers problem while preventing deadlock and starvation using mutexes. |
-| **Minishell** | UNIX Systems / Shell | Construction of a command interpreter with parsing, child process management, I/O redirection, and pipelines. |
-| **Pipex** | Inter-Process Communication | Recreation of the shell piping mechanism using `pipe()`, `fork()`, and `dup2()`. |
-| **Push_Swap** | Sorting Algorithms | Highly optimized sorting algorithm for stacks with a limited set of operations. |
-| **FdF** | 3D Graphics & Projection | 3D wireframe model generation with isometric/parallel projections, rotation, and zoom. |
-| **ft_printf** | Variadic Functions | Robust reimplementation of `printf()` managing variable arguments and format flags. |
-| **get_next_line** | File Handling | Efficient line-reading function solving static buffer persistence challenges. |
+| **get_next_line** | File Handling | Efficient line-reading function handling static buffers, file descriptors, and edge cases across multiple calls. |
+| **ft_printf** | Variadic Functions | Complete reimplementation of `printf()` supporting format parsing, variadic arguments, and flag management. |
+| **Push_Swap** | Algorithms & Optimization | Design of an optimized stack-based sorting algorithm under strict operational constraints. |
+| **Pipex** | Inter-Process Communication | Low-level reproduction of UNIX pipelines using `pipe()`, `fork()`, `dup2()`, and process synchronization. |
+| **FdF** | Computer Graphics | 3D wireframe rendering engine featuring isometric projections, transformations, and interactive controls. |
+| **Minishell** | UNIX Systems Programming | Development of a functional shell with command parsing, environment handling, redirections, pipelines, and signal management. |
+| **Philosophers** | Concurrency & Synchronization | Multi-threaded simulation solving the Dining Philosophers problem while preventing deadlock and starvation via mutexes. |
+| **C++ Modules (00–04)** | Object-Oriented Programming | Progressive mastery of C++ fundamentals, memory management, operator overloading, inheritance, polymorphism, and abstract interfaces. |
+| **Cub3D** | Graphics / Ray-Casting Engine | Pseudo-3D game engine based on ray-casting with DDA, real-time player movement, texture mapping, and event-driven rendering using MLX42. |
+
 
 ---
 
